@@ -1,4 +1,4 @@
-# Programa-gasolina-C-
+# Programa-gasolina-Csharp
 
 Programa criado para um trabalho trimestral no SENAC da matéria ALGORITMOS E PROGRAMAÇÃO usando estrutura de repetição e condições.
 
